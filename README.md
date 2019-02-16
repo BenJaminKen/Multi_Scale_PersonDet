@@ -3,9 +3,9 @@ CPU Real-time Multi-scale Person Detection
 
 # Test steps
 ## step1
-Download model and put it to "model/"  [BaiDu CLoad](https://pan.baidu.com/s/1PNc83cAMWpOQj5pjpQgrUw)
+Download model and put it to "model/"  [BaiDu CLoud](https://pan.baidu.com/s/1PNc83cAMWpOQj5pjpQgrUw)
 ## step2
-Download opencv_dll and put it to current directory [BaiDu Cload](https://pan.baidu.com/s/143Ia9lH9BXNiv-hSPSu4Bw)
+Download opencv_dll and put it to current directory [BaiDu Cloud](https://pan.baidu.com/s/143Ia9lH9BXNiv-hSPSu4Bw)
 ## step3
 Set parameters:
 `PersonDet.exe test_type path thresh(0-1)`
