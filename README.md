@@ -9,12 +9,12 @@ Download opencv_dll and put it to current directory [BaiDu Cloud](https://pan.ba
 ## step3
 Set parameters:
 `PersonDet.exe test_type path thresh(0-1)`
-"
+```cpp
 like:  PersonDet.exe image test.jpg 0.3  (for image)
 or:    PersonDet.exe imgdir D:/test_images/ 0.3  (for imgdir)
 or:    PersonDet.exe video test.avi 0.3  (for video)
 or:    PersonDet.exe video 0 0.3   (for usbcam)
-"
+```
 # Example result
 ![image](https://github.com/samylee/Multi_Scale_PersonDet/blob/master/image/result.jpg)
 # Reference
