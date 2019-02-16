@@ -1,6 +1,5 @@
 # Multi_Scale_PersonDet
 CPU Real-time Multi-scale Person Detection
-
 # Test steps
 ## step1
 Download model and put it to "model/"  [BaiDu CLoud](https://pan.baidu.com/s/1PNc83cAMWpOQj5pjpQgrUw)
@@ -15,6 +14,10 @@ or:    PersonDet.exe imgdir D:/test_images/ 0.3  (for imgdir)
 or:    PersonDet.exe video test.avi 0.3  (for video)
 or:    PersonDet.exe video 0 0.3   (for usbcam)
 ```
+# Algorithm efficiency
+| Image Size | Speed | CPU |
+|:------:|:------:|:------:|
+| Any resolution image  | 60ms | i7-8750H @2.20GHz |
 # Example result
 ![image](https://github.com/samylee/Multi_Scale_PersonDet/blob/master/image/result.jpg)
 # Reference
