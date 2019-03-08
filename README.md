@@ -15,9 +15,10 @@ or:    PersonDet.exe video test.avi 0.3  (for video)
 or:    PersonDet.exe video 0 0.3   (for usbcam)
 ```
 # Algorithm efficiency
-| Image Size | Speed | CPU |
-|:------:|:------:|:------:|
-| Any resolution image  | 60ms | i7-8750H @2.20GHz |
+| Image Size | Speed | mAP(voc2007-test) | CPU |
+|:------:|:------:|:------:|:------:|
+| Any resolution image  | 60ms |0.7714| i7-8750H @2.20GHz |
+
 # Example result
 ![image](https://github.com/samylee/Multi_Scale_PersonDet/blob/master/image/result.jpg)
 # Reference
